@@ -1,0 +1,14 @@
+.nav:hover {
+    padding: 3px;
+    font-size: 20px;
+    border-radius: 5px;
+    
+    
+}
+.navbar{
+    box-shadow: 0px 10px 20px blue;
+    border-bottom: 2px solid blue;
+}
+.navIcon{
+    width: 50px;
+}

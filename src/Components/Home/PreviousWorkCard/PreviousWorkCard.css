@@ -1,0 +1,9 @@
+.card{
+    box-shadow: 5px 5px 10px blue;
+    border: none;
+    border-radius: 10px;
+}
+.card-title{
+    font-weight: bold;
+    color: #ED4A43;
+}
