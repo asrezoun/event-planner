@@ -8,6 +8,7 @@
 
 ## features
 
+### stripe payment
 ### cloud database storage
 ### database add, delete, get, update
 ### user individual data load from database using email

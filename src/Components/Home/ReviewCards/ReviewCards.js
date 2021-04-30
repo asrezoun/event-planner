@@ -2,7 +2,7 @@ import React from 'react';
 
 const ReviewCards = ({ data }) => {
     return (
-        <div className="col-md-4">
+        <div className="col-md-4 my-2">
             <div className="card text-white bg-dark" style={{width: "18rem",minHeight: "13rem"}}>
                 <div className="card-body">
                     <p className="card-text text-justify">{data.userReview}</p>

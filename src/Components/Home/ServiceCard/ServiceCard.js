@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 import './ServiceCard.css';
 const ServiceCard = ({data}) => {
     return (
-        <div className="col-md-4">
-            <div className="card" style= {{width: "18rem", height:"28rem"}}>
+        <div className="col-md-4 my-2">
+            <div className="card" style= {{width: "18rem", minHeight:"28rem"}}>
                 
                 <div className="card-body">
                     <img className="card-img-top service-img" src={data.image} alt="" />

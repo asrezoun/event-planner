@@ -105,6 +105,10 @@ const Admin = () => {
 
             {!isAdmin && <div className="text-center">
                 <h2 className="text-center py-5 my-5 text-red">You are not an Admin!</h2>
+                <h6>If you want to check admin panel</h6>
+                <h6>Then login as</h6>
+                <h6>email: test@gmail.com</h6>
+                <h6>password: test123</h6>
                 <Link to="/home"><button className="btn btn-red text-white">Back to Home</button></Link>
             </div>}
         </div>
